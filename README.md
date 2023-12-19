@@ -8,3 +8,4 @@ merge test
 왜안올라가
 또안올라가
 pulltest
+mergetest
